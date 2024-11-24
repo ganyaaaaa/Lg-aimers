@@ -8,4 +8,3 @@
 - 주최: LG AI Research
 - 대회 예선 : 8위 ▶️ 본선 진출
 - 대회 본선 : Private Score 1위
-- ![LG AI본선 해커톤 수료증](https://github.com/user-attachments/assets/a65d6aee-a7d3-4b95-8054-0843faf1206f)
